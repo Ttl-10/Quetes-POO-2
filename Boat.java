@@ -1,6 +1,6 @@
-public class Boat extends Vehicle // q.6
+public class Boat extends Vehicle
 {
-	public Boat (String brand, int kilometers) // q.8
+	public Boat (String brand, int kilometers)
 	{
 		super(brand, kilometers);
 	}

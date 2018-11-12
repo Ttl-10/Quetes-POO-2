@@ -1,7 +1,7 @@
-public class Car extends Vehicle // q.5
+public class Car extends Vehicle
 {
 			
-	public Car (String brand, int kilometers) // q.8
+	public Car (String brand, int kilometers)
 	{
 		super(brand, kilometers);
 	}

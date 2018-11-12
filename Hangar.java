@@ -1,4 +1,4 @@
-public class Hangar // q.9
+public class Hangar
 {
 	public static void main(String[] args)
 	{
@@ -8,5 +8,4 @@ public class Hangar // q.9
 		System.out.println(boat.doStuff());
 	}
 
-	
 }

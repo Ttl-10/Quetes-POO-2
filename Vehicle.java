@@ -1,29 +1,29 @@
-public abstract class Vehicle // q.1
+public abstract class Vehicle
 {
-	private String brand; // q.2 - attributs
+	private String brand;
 	private int kilometers;
 
-	public Vehicle(String brand, int kilometers) // q.3 - constructeur
+	public Vehicle(String brand, int kilometers)
 	{
 		this.brand=brand;
 		this.kilometers=kilometers;
 	}
-	public String getBrand() //  q.4 - get
+	public String getBrand()
 	{
 		return this.brand;
 	}
-	public void setBrand(String brand) // q.4 - set
+	public void setBrand(String brand)
 	{
 		this.brand=brand;
 	}
-	public int getKilometers() // q.4 - get
+	public int getKilometers()
 	{
 		return this.kilometers;	
 	}
-	public void setKilometers(int kilometers) // q.4 - set
+	public void setKilometers(int kilometers)
 	{
 		this.kilometers=kilometers;
 	}
-	public abstract String doStuff(); // q.7
+	public abstract String doStuff();
 	
 }
