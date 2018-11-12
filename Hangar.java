@@ -1,4 +1,4 @@
-public class Hangar
+public class Hangar // méthode
 {
 	public static void main(String[] args)
 	{

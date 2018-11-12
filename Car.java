@@ -1,4 +1,4 @@
-public class Car extends Vehicle
+public class Car extends Vehicle // q.8
 {
 			
 	public Car (String brand, int kilometers)

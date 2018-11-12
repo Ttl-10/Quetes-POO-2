@@ -1,4 +1,4 @@
-public abstract class Vehicle
+public abstract class Vehicle // fait attention
 {
 	private String brand;
 	private int kilometers;
